@@ -1,0 +1,1355 @@
+{
+  "Info": {
+    "TotalResults": 233,
+    "PageNumber": 0,
+    "Message": null
+  },
+  "Events": [
+    {
+      "Id": 2805609,
+      "Date": "2016-10-11T20:00:00",
+      "Venue": {
+        "Id": 5416,
+        "Name": "Neighborhood Theatre",
+        "Address": "511 E. 36th St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://www.neighborhoodtheatre.com/",
+        "Latitude": 35.247581,
+        "Longitude": -80.804431
+      },
+      "Artists": [
+        {
+          "Id": 99554,
+          "Name": "Chrome Sparks"
+        },
+        {
+          "Id": 117192,
+          "Name": "Roland Tings"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1233317/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2764617,
+      "Date": "2016-10-11T20:00:00",
+      "Venue": {
+        "Id": 10624,
+        "Name": "The Evening Muse",
+        "Address": "3227 N. Davidson St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://theeveningmuse.com/",
+        "Latitude": 35.247054,
+        "Longitude": -80.805447
+      },
+      "Artists": [
+        {
+          "Id": 96578,
+          "Name": "Walter Salas-Humara"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1164837/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2849562,
+      "Date": "2016-10-11T21:00:00",
+      "Venue": {
+        "Id": 40286,
+        "Name": "The Milestone",
+        "Address": "3400 Tuckaseegee Rd",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28208",
+        "Url": "http://www.solidgoldempire.com",
+        "Latitude": 35.244441,
+        "Longitude": -80.883594
+      },
+      "Artists": [
+        {
+          "Id": 41380,
+          "Name": "The Futurists"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1297225/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2821716,
+      "Date": "2016-10-12T19:30:00",
+      "Venue": {
+        "Id": 98553,
+        "Name": "Knight Theater",
+        "Address": "430 South Tryon St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28202",
+        "Url": "http://www.blumenthalcenter.org/default.asp?blumenthal=135&urlkeyword=theater_detail&objId=83",
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "Artists": [
+        {
+          "Id": 4520,
+          "Name": "Robert Earl Keen"
+        },
+        {
+          "Id": 24861,
+          "Name": "Lyle Lovett"
+        }
+      ],
+      "TicketUrl": "https://tix.carolinatix.org/online/mapSelect.asp?BOset::WSmap::seatmap::performance_ids=6D13B9FD-47E0-4E62-9F94-055C303E24AC&BOparam::WSmap::loadMap::promocode_access_code=MAXX"
+    },
+    {
+      "Id": 2847753,
+      "Date": "2016-10-12T20:00:00",
+      "Venue": {
+        "Id": 10624,
+        "Name": "The Evening Muse",
+        "Address": "3227 N. Davidson St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://theeveningmuse.com/",
+        "Latitude": 35.247054,
+        "Longitude": -80.805447
+      },
+      "Artists": [
+        {
+          "Id": 88188,
+          "Name": "Roxy Roca"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1319799/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2842974,
+      "Date": "2016-10-12T21:00:00",
+      "Venue": {
+        "Id": 7038,
+        "Name": "Double Door Inn",
+        "Address": "1218 Charlottetowne Ave",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28204",
+        "Url": "http://www.doubledoorinn.com",
+        "Latitude": 35.216042,
+        "Longitude": -80.828293
+      },
+      "Artists": [
+        {
+          "Id": 106219,
+          "Name": "Jack Lawrence"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1310411/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2803494,
+      "Date": "2016-10-13T19:00:00",
+      "Venue": {
+        "Id": 31854,
+        "Name": "Cabarrus Arena",
+        "Address": "4751 NC Hwy49 North",
+        "City": "Concord",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28025",
+        "Url": "http://www.goldevents.net/",
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "Artists": [
+        {
+          "Id": 117162,
+          "Name": "Sadie Robertson"
+        }
+      ],
+      "TicketUrl": "http://ticketmaster.evyy.net/c/252938/264167/4272?u=http%3a%2f%2fwww.ticketmaster.com%2fevent%2f0E0050A5958739F0"
+    },
+    {
+      "Id": 2811607,
+      "Date": "2016-10-13T20:00:00",
+      "Venue": {
+        "Id": 5416,
+        "Name": "Neighborhood Theatre",
+        "Address": "511 E. 36th St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://www.neighborhoodtheatre.com/",
+        "Latitude": 35.247581,
+        "Longitude": -80.804431
+      },
+      "Artists": [
+        {
+          "Id": 28845,
+          "Name": "The Wood Brothers"
+        },
+        {
+          "Id": 51990,
+          "Name": "Patrick Sweany"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1244145/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2817270,
+      "Date": "2016-10-13T20:00:00",
+      "Venue": {
+        "Id": 10624,
+        "Name": "The Evening Muse",
+        "Address": "3227 N. Davidson St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://theeveningmuse.com/",
+        "Latitude": 35.247054,
+        "Longitude": -80.805447
+      },
+      "Artists": [
+        {
+          "Id": 105089,
+          "Name": "Ballroom Thieves"
+        },
+        {
+          "Id": 115131,
+          "Name": "Blue Healer"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1259853/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2821650,
+      "Date": "2016-10-13T21:00:00",
+      "Venue": {
+        "Id": 7038,
+        "Name": "Double Door Inn",
+        "Address": "1218 Charlottetowne Ave",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28204",
+        "Url": "http://www.doubledoorinn.com",
+        "Latitude": 35.216042,
+        "Longitude": -80.828293
+      },
+      "Artists": [
+        {
+          "Id": 20879,
+          "Name": "Drivin' n' Cryin'   "
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1267773/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2826127,
+      "Date": "2016-10-14T00:00:00",
+      "Venue": {
+        "Id": 2995,
+        "Name": "Visulite Theatre",
+        "Address": "1615 Elizabeth Ave",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28204",
+        "Url": "http://www.visulite.com/",
+        "Latitude": 35.213529,
+        "Longitude": -80.82645
+      },
+      "Artists": [
+        {
+          "Id": 117621,
+          "Name": "Elohim"
+        }
+      ],
+      "TicketUrl": ""
+    },
+    {
+      "Id": 2830551,
+      "Date": "2016-10-14T00:00:00",
+      "Venue": {
+        "Id": 93421,
+        "Name": "The Fillmore Charlotte",
+        "Address": "1000 N.C. Music Factory Blvd",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28206",
+        "Url": "http://fillmorecharlottenc.com",
+        "Latitude": 35.2391,
+        "Longitude": -80.8455
+      },
+      "Artists": [
+        {
+          "Id": 50168,
+          "Name": "TR3 Featuring Tim Reynolds"
+        }
+      ],
+      "TicketUrl": "http://www.poker4parkinsons.com/register/"
+    },
+    {
+      "Id": 2855622,
+      "Date": "2016-10-14T00:00:00",
+      "Venue": {
+        "Id": 100506,
+        "Name": "The Wizard Saloon",
+        "Address": "Old Hwy 70",
+        "City": "Hickory",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28601",
+        "Url": "http://www.myspace.com/wizardsaloon",
+        "Latitude": 34.2503708,
+        "Longitude": -93.6419001
+      },
+      "Artists": [
+        {
+          "Id": 97445,
+          "Name": "Shallow Side"
+        },
+        {
+          "Id": 111806,
+          "Name": "Bridge To Grace"
+        }
+      ],
+      "TicketUrl": ""
+    },
+    {
+      "Id": 2795570,
+      "Date": "2016-10-14T20:00:00",
+      "Venue": {
+        "Id": 127316,
+        "Name": "Stage Door Theater",
+        "Address": "130 N Tryon St",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28202",
+        "Url": "",
+        "Latitude": 35.22932,
+        "Longitude": -80.841951
+      },
+      "Artists": [
+        {
+          "Id": 34458,
+          "Name": "Griffin House"
+        }
+      ],
+      "TicketUrl": "https://tix.carolinatix.org/online/seatSelect.asp?BOset::WSmap::seatmap::performance_ids=1D7B1DF3-63CF-4B85-B4A7-52C7B62BF82A&BOparam::WSmap::loadBestAvailable::promocode_access_code=MAXX"
+    },
+    {
+      "Id": 2842611,
+      "Date": "2016-10-14T20:00:00",
+      "Venue": {
+        "Id": 157366,
+        "Name": "Wynfield Clubhouse",
+        "Address": "14301 Wynfield Creek Pkwy",
+        "City": "Huntersville",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28078",
+        "Url": "http://homefrontmusicseries.com",
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "Artists": [
+        {
+          "Id": 5774,
+          "Name": "David Wilcox"
+        }
+      ],
+      "TicketUrl": ""
+    },
+    {
+      "Id": 2783389,
+      "Date": "2016-10-14T20:00:00",
+      "Venue": {
+        "Id": 5416,
+        "Name": "Neighborhood Theatre",
+        "Address": "511 E. 36th St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://www.neighborhoodtheatre.com/",
+        "Latitude": 35.247581,
+        "Longitude": -80.804431
+      },
+      "Artists": [
+        {
+          "Id": 65669,
+          "Name": "The Honey Dewdrops"
+        },
+        {
+          "Id": 93086,
+          "Name": "Mipso"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1194827/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2836749,
+      "Date": "2016-10-14T20:00:00",
+      "Venue": {
+        "Id": 10624,
+        "Name": "The Evening Muse",
+        "Address": "3227 N. Davidson St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://theeveningmuse.com/",
+        "Latitude": 35.247054,
+        "Longitude": -80.805447
+      },
+      "Artists": [
+        {
+          "Id": 58967,
+          "Name": "Sean Mcconnell"
+        },
+        {
+          "Id": 92265,
+          "Name": "Andrew Leahey & The Homestead"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1299069/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2770943,
+      "Date": "2016-10-14T21:00:00",
+      "Venue": {
+        "Id": 7038,
+        "Name": "Double Door Inn",
+        "Address": "1218 Charlottetowne Ave",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28204",
+        "Url": "http://www.doubledoorinn.com",
+        "Latitude": 35.216042,
+        "Longitude": -80.828293
+      },
+      "Artists": [
+        {
+          "Id": 28282,
+          "Name": "The Nighthawks"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1176239/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2856615,
+      "Date": "2016-10-14T21:30:00",
+      "Venue": {
+        "Id": 151973,
+        "Name": "The Rabbit Hole",
+        "Address": "1801 Commonwealth Ave.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://www.rabbitholemidwood.com",
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "Artists": [
+        {
+          "Id": 227,
+          "Name": "Wavy Train"
+        },
+        {
+          "Id": 101911,
+          "Name": "Major and the Monbacks"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1340381/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2859586,
+      "Date": "2016-10-15T00:00:00",
+      "Venue": {
+        "Id": 159732,
+        "Name": "Flight Beer Garden and Music Hall",
+        "Address": "314 N College St",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28202",
+        "Url": "http://flightclt.com",
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "Artists": [
+        {
+          "Id": 90654,
+          "Name": "Sun-Dried Vibes"
+        }
+      ],
+      "TicketUrl": ""
+    },
+    {
+      "Id": 2836439,
+      "Date": "2016-10-15T20:00:00",
+      "Venue": {
+        "Id": 10624,
+        "Name": "The Evening Muse",
+        "Address": "3227 N. Davidson St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://theeveningmuse.com/",
+        "Latitude": 35.247054,
+        "Longitude": -80.805447
+      },
+      "Artists": [
+        {
+          "Id": 113899,
+          "Name": "Chrome Pony"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1256471/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2827110,
+      "Date": "2016-10-15T20:00:00",
+      "Venue": {
+        "Id": 8831,
+        "Name": "Amos' Southend",
+        "Address": "1423 South Tryon Street",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28206",
+        "Url": "http://www.amossouthend.com",
+        "Latitude": 35.238082,
+        "Longitude": -80.828395
+      },
+      "Artists": [
+        {
+          "Id": 75472,
+          "Name": "Turnpike Troubadours"
+        },
+        {
+          "Id": 110062,
+          "Name": "Dalton Domino & The Front Porch Family Band"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1270577/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2794333,
+      "Date": "2016-10-15T20:00:00",
+      "Venue": {
+        "Id": 93421,
+        "Name": "The Fillmore Charlotte",
+        "Address": "1000 N.C. Music Factory Blvd",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28206",
+        "Url": "http://fillmorecharlottenc.com",
+        "Latitude": 35.2391,
+        "Longitude": -80.8455
+      },
+      "Artists": [
+        {
+          "Id": 64522,
+          "Name": "Local Natives"
+        }
+      ],
+      "TicketUrl": "http://ticketmaster.evyy.net/c/252938/264167/4272?u=http%3A%2F%2Fconcerts.livenation.com%2Fevent%2F0E0050B3DBE98C6A"
+    },
+    {
+      "Id": 2846989,
+      "Date": "2016-10-15T21:00:00",
+      "Venue": {
+        "Id": 151973,
+        "Name": "The Rabbit Hole",
+        "Address": "1801 Commonwealth Ave.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://www.rabbitholemidwood.com",
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "Artists": [
+        {
+          "Id": 30870,
+          "Name": "Nappy Roots"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1318659/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2786029,
+      "Date": "2016-10-16T20:00:00",
+      "Venue": {
+        "Id": 10624,
+        "Name": "The Evening Muse",
+        "Address": "3227 N. Davidson St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://theeveningmuse.com/",
+        "Latitude": 35.247054,
+        "Longitude": -80.805447
+      },
+      "Artists": [
+        {
+          "Id": 54290,
+          "Name": "Erick Baker"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1199337/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2849045,
+      "Date": "2016-10-16T20:00:00",
+      "Venue": {
+        "Id": 5416,
+        "Name": "Neighborhood Theatre",
+        "Address": "511 E. 36th St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://www.neighborhoodtheatre.com/",
+        "Latitude": 35.247581,
+        "Longitude": -80.804431
+      },
+      "Artists": [
+        {
+          "Id": 744,
+          "Name": "Rusted Root"
+        },
+        {
+          "Id": 117380,
+          "Name": "Daisie Ghost-Flower"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1321889/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2849468,
+      "Date": "2016-10-16T21:00:00",
+      "Venue": {
+        "Id": 40286,
+        "Name": "The Milestone",
+        "Address": "3400 Tuckaseegee Rd",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28208",
+        "Url": "http://www.solidgoldempire.com",
+        "Latitude": 35.244441,
+        "Longitude": -80.883594
+      },
+      "Artists": [
+        {
+          "Id": 39778,
+          "Name": "He is Legend"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1323385/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2852223,
+      "Date": "2016-10-17T00:00:00",
+      "Venue": {
+        "Id": 93421,
+        "Name": "The Fillmore Charlotte",
+        "Address": "1000 N.C. Music Factory Blvd",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28206",
+        "Url": "http://fillmorecharlottenc.com",
+        "Latitude": 35.2391,
+        "Longitude": -80.8455
+      },
+      "Artists": [
+        {
+          "Id": 72203,
+          "Name": "Ben Rector"
+        },
+        {
+          "Id": 109593,
+          "Name": "Jacob Whitesides"
+        }
+      ],
+      "TicketUrl": "http://ticketmaster.evyy.net/c/252938/264167/4272?u=http%3A%2F%2Fconcerts.livenation.com%2Fevent%2F0E0050CF16CFD1CB"
+    },
+    {
+      "Id": 2817291,
+      "Date": "2016-10-17T20:00:00",
+      "Venue": {
+        "Id": 5416,
+        "Name": "Neighborhood Theatre",
+        "Address": "511 E. 36th St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://www.neighborhoodtheatre.com/",
+        "Latitude": 35.247581,
+        "Longitude": -80.804431
+      },
+      "Artists": [
+        {
+          "Id": 5824,
+          "Name": "Lucero"
+        },
+        {
+          "Id": 14502,
+          "Name": "Cory Branan"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1252019/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2797636,
+      "Date": "2016-10-18T00:00:00",
+      "Venue": {
+        "Id": 35480,
+        "Name": "McGlohon Theatre",
+        "Address": "345 N College St",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28202",
+        "Url": "http://www.blumenthalcenter.org/default.asp?blumenthal=135&urlkeyword=theater_detail&objId=9",
+        "Latitude": 35.228101,
+        "Longitude": -80.839299
+      },
+      "Artists": [
+        {
+          "Id": 21161,
+          "Name": "Henry Rollins"
+        }
+      ],
+      "TicketUrl": ""
+    },
+    {
+      "Id": 2842941,
+      "Date": "2016-10-18T20:00:00",
+      "Venue": {
+        "Id": 10624,
+        "Name": "The Evening Muse",
+        "Address": "3227 N. Davidson St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://theeveningmuse.com/",
+        "Latitude": 35.247054,
+        "Longitude": -80.805447
+      },
+      "Artists": [
+        {
+          "Id": 98411,
+          "Name": "Bella's Bartok"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1310293/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2858563,
+      "Date": "2016-10-19T20:00:00",
+      "Venue": {
+        "Id": 140804,
+        "Name": "The Crossing at Hollar Mill",
+        "Address": "883 Highland Ave",
+        "City": "Hickory",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28602",
+        "Url": "",
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "Artists": [
+        {
+          "Id": 11540,
+          "Name": "Jerry Douglas"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1343139/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2830188,
+      "Date": "2016-10-19T21:00:00",
+      "Venue": {
+        "Id": 7038,
+        "Name": "Double Door Inn",
+        "Address": "1218 Charlottetowne Ave",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28204",
+        "Url": "http://www.doubledoorinn.com",
+        "Latitude": 35.216042,
+        "Longitude": -80.828293
+      },
+      "Artists": [
+        {
+          "Id": 46436,
+          "Name": "Kara Grainger"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1285365/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2842572,
+      "Date": "2016-10-20T19:30:00",
+      "Venue": {
+        "Id": 6690,
+        "Name": "Ovens Auditorium",
+        "Address": "2700 East Independence Blvd. ",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://www.ovensauditorium.com/",
+        "Latitude": 35.207873,
+        "Longitude": -80.797911
+      },
+      "Artists": [
+        {
+          "Id": 36681,
+          "Name": "Chrisette Michele"
+        },
+        {
+          "Id": 42627,
+          "Name": "Musiq Soulchild"
+        },
+        {
+          "Id": 50822,
+          "Name": "Raheem DeVaughn"
+        },
+        {
+          "Id": 117714,
+          "Name": "Angie Fisher"
+        }
+      ],
+      "TicketUrl": ""
+    },
+    {
+      "Id": 2840994,
+      "Date": "2016-10-20T20:00:00",
+      "Venue": {
+        "Id": 5416,
+        "Name": "Neighborhood Theatre",
+        "Address": "511 E. 36th St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://www.neighborhoodtheatre.com/",
+        "Latitude": 35.247581,
+        "Longitude": -80.804431
+      },
+      "Artists": [
+        {
+          "Id": 43018,
+          "Name": "Total Chaos"
+        },
+        {
+          "Id": 45864,
+          "Name": "John Paul White"
+        },
+        {
+          "Id": 55357,
+          "Name": "Dirty South Revolutionaries"
+        },
+        {
+          "Id": 64875,
+          "Name": "One Way System"
+        },
+        {
+          "Id": 89461,
+          "Name": "The Kernal"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1305405/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2844927,
+      "Date": "2016-10-20T20:00:00",
+      "Venue": {
+        "Id": 8831,
+        "Name": "Amos' Southend",
+        "Address": "1423 South Tryon Street",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28206",
+        "Url": "http://www.amossouthend.com",
+        "Latitude": 35.238082,
+        "Longitude": -80.828395
+      },
+      "Artists": [
+        {
+          "Id": 53636,
+          "Name": "David Nail"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1301607/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2843024,
+      "Date": "2016-10-20T21:00:00",
+      "Venue": {
+        "Id": 7038,
+        "Name": "Double Door Inn",
+        "Address": "1218 Charlottetowne Ave",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28204",
+        "Url": "http://www.doubledoorinn.com",
+        "Latitude": 35.216042,
+        "Longitude": -80.828293
+      },
+      "Artists": [
+        {
+          "Id": 7031,
+          "Name": "Tinsley Ellis"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1310423/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2834456,
+      "Date": "2016-10-20T21:00:00",
+      "Venue": {
+        "Id": 2995,
+        "Name": "Visulite Theatre",
+        "Address": "1615 Elizabeth Ave",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28204",
+        "Url": "http://www.visulite.com/",
+        "Latitude": 35.213529,
+        "Longitude": -80.82645
+      },
+      "Artists": [
+        {
+          "Id": 32107,
+          "Name": "Spiritual Rez"
+        }
+      ],
+      "TicketUrl": ""
+    },
+    {
+      "Id": 2837112,
+      "Date": "2016-10-21T00:00:00",
+      "Venue": {
+        "Id": 93421,
+        "Name": "The Fillmore Charlotte",
+        "Address": "1000 N.C. Music Factory Blvd",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28206",
+        "Url": "http://fillmorecharlottenc.com",
+        "Latitude": 35.2391,
+        "Longitude": -80.8455
+      },
+      "Artists": [
+        {
+          "Id": 114117,
+          "Name": "Marshmello"
+        },
+        {
+          "Id": 117521,
+          "Name": "Slushii"
+        }
+      ],
+      "TicketUrl": "http://ticketmaster.evyy.net/c/252938/264167/4272?u=http%3A%2F%2Fconcerts.livenation.com%2Fevent%2F0E005111CF9B8F4F"
+    },
+    {
+      "Id": 2851119,
+      "Date": "2016-10-21T00:00:00",
+      "Venue": {
+        "Id": 10624,
+        "Name": "The Evening Muse",
+        "Address": "3227 N. Davidson St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://theeveningmuse.com/",
+        "Latitude": 35.247054,
+        "Longitude": -80.805447
+      },
+      "Artists": [
+        {
+          "Id": 6126,
+          "Name": "Dar Williams"
+        }
+      ],
+      "TicketUrl": ""
+    },
+    {
+      "Id": 2839231,
+      "Date": "2016-10-21T00:00:00",
+      "Venue": {
+        "Id": 160180,
+        "Name": "Uptown Live",
+        "Address": "935 South Summit Ave",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28208",
+        "Url": "",
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "Artists": [
+        {
+          "Id": 97013,
+          "Name": "Aaron Carter"
+        }
+      ],
+      "TicketUrl": "http://ticketmaster.evyy.net/c/252938/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0E00511B8C932018"
+    },
+    {
+      "Id": 2803169,
+      "Date": "2016-10-21T20:00:00",
+      "Venue": {
+        "Id": 5416,
+        "Name": "Neighborhood Theatre",
+        "Address": "511 E. 36th St.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://www.neighborhoodtheatre.com/",
+        "Latitude": 35.247581,
+        "Longitude": -80.804431
+      },
+      "Artists": [
+        {
+          "Id": 85459,
+          "Name": "Chris Robinson Brotherhood"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1227587/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2807560,
+      "Date": "2016-10-21T20:00:00",
+      "Venue": {
+        "Id": 47285,
+        "Name": "The Wine Room at Afton Village",
+        "Address": "5401 Village Dr",
+        "City": "Concord NC",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28027",
+        "Url": "http://www.wine-room.net/",
+        "Latitude": 35.414964,
+        "Longitude": -80.669238
+      },
+      "Artists": [
+        {
+          "Id": 117189,
+          "Name": "Mitch Hayes"
+        }
+      ],
+      "TicketUrl": ""
+    },
+    {
+      "Id": 2831899,
+      "Date": "2016-10-21T20:00:00",
+      "Venue": {
+        "Id": 2995,
+        "Name": "Visulite Theatre",
+        "Address": "1615 Elizabeth Ave",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28204",
+        "Url": "http://www.visulite.com/",
+        "Latitude": 35.213529,
+        "Longitude": -80.82645
+      },
+      "Artists": [
+        {
+          "Id": 32353,
+          "Name": "Matt Wertz"
+        }
+      ],
+      "TicketUrl": "http://www.visulite.com/showDetails.cfm?showID=2363"
+    },
+    {
+      "Id": 2831021,
+      "Date": "2016-10-21T21:00:00",
+      "Venue": {
+        "Id": 151973,
+        "Name": "The Rabbit Hole",
+        "Address": "1801 Commonwealth Ave.",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28205",
+        "Url": "http://www.rabbitholemidwood.com",
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "Artists": [
+        {
+          "Id": 80818,
+          "Name": "DANK"
+        },
+        {
+          "Id": 111221,
+          "Name": "Tom Galloway"
+        },
+        {
+          "Id": 113703,
+          "Name": "Maradeen"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1321221/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2852913,
+      "Date": "2016-10-21T21:30:00",
+      "Venue": {
+        "Id": 65201,
+        "Name": "Snug Harbor",
+        "Address": "",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28201",
+        "Url": "",
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "Artists": [
+        {
+          "Id": 90166,
+          "Name": "Junior Astronomers"
+        },
+        {
+          "Id": 116527,
+          "Name": "Secret Guest"
+        },
+        {
+          "Id": 117934,
+          "Name": "ET Anderson"
+        }
+      ],
+      "TicketUrl": "http://www.tunestub.com/event.cfm?id=249410&key=ts_iEVMwYxXEOU3YNs"
+    },
+    {
+      "Id": 2842962,
+      "Date": "2016-10-21T22:00:00",
+      "Venue": {
+        "Id": 7038,
+        "Name": "Double Door Inn",
+        "Address": "1218 Charlottetowne Ave",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28204",
+        "Url": "http://www.doubledoorinn.com",
+        "Latitude": 35.216042,
+        "Longitude": -80.828293
+      },
+      "Artists": [
+        {
+          "Id": 108281,
+          "Name": "Flow Tribe"
+        }
+      ],
+      "TicketUrl": "http://www.shareasale.com/r.cfm?u=460319&b=234786&m=27601&afftrack=&urllink=https://www.ticketfly.com/purchase/event/1310435/tfly?utm_medium=api"
+    },
+    {
+      "Id": 2856132,
+      "Date": "2016-10-22T00:00:00",
+      "Venue": {
+        "Id": 29888,
+        "Name": "Thomas Street Tavern",
+        "Address": "",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28204",
+        "Url": "",
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "Artists": [
+        {
+          "Id": 89953,
+          "Name": "The Get Right Band"
+        }
+      ],
+      "TicketUrl": ""
+    },
+    {
+      "Id": 2800094,
+      "Date": "2016-10-22T00:00:00",
+      "Venue": {
+        "Id": 101026,
+        "Name": "The Don Gibson Theatre",
+        "Address": "",
+        "City": "Shelby",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28150",
+        "Url": "",
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "Artists": [
+        {
+          "Id": 10105,
+          "Name": "Reckless Kelly"
+        }
+      ],
+      "TicketUrl": ""
+    },
+    {
+      "Id": 2838626,
+      "Date": "2016-10-22T00:00:00",
+      "Venue": {
+        "Id": 160180,
+        "Name": "Uptown Live",
+        "Address": "935 South Summit Ave",
+        "City": "Charlotte",
+        "State": "North Carolina",
+        "StateCode": "NC",
+        "Country": "US",
+        "CountryCode": "US",
+        "ZipCode": "28208",
+        "Url": "",
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "Artists": [
+        {
+          "Id": 64398,
+          "Name": "Kirk Franklin"
+        }
+      ],
+      "TicketUrl": "http://ticketmaster.evyy.net/c/252938/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0E005118DB526CAF"
+    }
+  ]
+}
